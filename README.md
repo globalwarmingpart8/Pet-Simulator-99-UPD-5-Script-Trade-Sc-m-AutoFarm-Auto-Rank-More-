@@ -28,26 +28,26 @@ Main Features
 ```
 Autos
 ```
-  - AutoFarm
-  - AutoRank
-  - AutoFish
-  - AutoDig
-  - AutoNextWorld
-  - AutoDupeGems (Alt account is required, full tutorial in script)
-  - AutoSnipeBooth
-  - AutoEnchant
-  - AutoGold
-  - AutoRainbow
-  - AutoPotion
-  - AutoFruits
-  - AutoBuy
-  - More
+- AutoFarm
+- AutoRank
+- AutoFish
+- AutoDig
+- AutoNextWorld
+- AutoDupeGems (Alt account is required, full tutorial in script)
+- AutoSnipeBooth
+- AutoEnchant
+- AutoGold
+- AutoRainbow
+- AutoPotion
+- AutoFruits
+- AutoBuy
+- More
 ```
 
   Antis
 ```
-  - AntiDetect
-  - AntiAfk
+- AntiDetect
+- AntiAfk
 ```
 
 ## 💀 USE AT YOUR OWN RISK 💀
