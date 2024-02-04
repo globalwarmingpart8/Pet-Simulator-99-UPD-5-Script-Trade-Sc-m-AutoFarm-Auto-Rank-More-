@@ -3,7 +3,7 @@
   ```
   ✅ Updated 4/2/2024: Updated on Pet Simulator 99! [☁️UPD 5]
   ```
-  <img src="./images/ps99.png" width=100>
+  <img src="./images/ps99.png" width=1000>
 
   
 </div>
