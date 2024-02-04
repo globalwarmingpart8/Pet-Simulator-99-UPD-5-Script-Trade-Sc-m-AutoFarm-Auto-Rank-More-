@@ -4,13 +4,16 @@
   ✅ Updated 4/2/2024: Updated on Pet Simulator 99! [☁️UPD 5]
   ```
   <img src="./images/ps99.png" width=800>
-
-  💎 Why us?
-  - Premium Quality
-  - Free for every user
-  - User friendly
-  - Simple to use
 </div>
+
+## 💎 Why us?
+```
+- Premium Quality
+- Free for every user
+- User friendly
+- Simple to use
+```
+
 
 ## Pet Simulator 99 Script
 ![GitHub last commit](https://img.shields.io/github/last-commit/globalwarmingpart8/PetSimulator99)
