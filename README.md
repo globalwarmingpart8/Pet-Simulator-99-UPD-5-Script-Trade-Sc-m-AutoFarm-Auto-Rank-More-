@@ -12,8 +12,6 @@
   - User friendly
   - Simple to use
   ```
-
-  
 </div>
 
 ## Pet Simulator 99 Script
@@ -21,9 +19,8 @@
 ![Status of script working](https://img.shields.io/badge/Status-Working-normal)
 
 ## Features
-<div align=center>
-  Autos
-  ```
+Autos
+```
   - AutoFarm
   - AutoRank
   - AutoFish
@@ -38,11 +35,10 @@
   - AutoFruits
   - AutoBuy
   - More
-  ```
+```
 
   Antis
-  ```
+```
   - AntiDetect
   - AntiAfk
-  ```
-</div>
+```
