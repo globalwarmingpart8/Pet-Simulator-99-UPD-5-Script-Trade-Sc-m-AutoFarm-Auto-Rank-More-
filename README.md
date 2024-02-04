@@ -3,6 +3,9 @@
   ```
   ✅ Updated 4/2/2024: Updated on Pet Simulator 99! [☁️UPD 5]
   ```
+
+  # Pet Simulator 99 Hack Script
+  
   <img src="./images/ps99.png" width=800>
 </div>
 
