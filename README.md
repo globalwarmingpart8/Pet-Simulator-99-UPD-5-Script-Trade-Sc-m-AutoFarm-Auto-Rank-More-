@@ -5,13 +5,11 @@
   ```
   <img src="./images/ps99.png" width=800>
 
-  ```
   💎 Why us?
   - Premium Quality
   - Free for every user
   - User friendly
   - Simple to use
-  ```
 </div>
 
 ## Pet Simulator 99 Script
