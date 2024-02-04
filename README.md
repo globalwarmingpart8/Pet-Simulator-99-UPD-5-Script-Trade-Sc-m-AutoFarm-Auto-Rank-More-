@@ -20,6 +20,12 @@
 ![Status of script working](https://img.shields.io/badge/Status-Working-normal)
 
 ## Features
+Main Features
+```
+- VisualTradeScam
+- FakeBoothSell
+- FakePetEquip
+```
 Autos
 ```
   - AutoFarm
