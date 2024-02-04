@@ -3,6 +3,9 @@
   ```
   ✅ Updated 4/2/2024: Updated on Pet Simulator 99! [☁️UPD 5]
   ```
+  <img src="./images/ps99.png" width=100>
+
+  
 </div>
 
 # Pet Simulator 99 Script
