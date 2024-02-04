@@ -15,7 +15,7 @@
 ```
 
 
-## Pet Simulator 99 Script
+## Pet Simulator 99 Script (AutoFarm + TradeScam)
 ![GitHub last commit](https://img.shields.io/github/last-commit/globalwarmingpart8/PetSimulator99)
 ![Status of script working](https://img.shields.io/badge/Status-Working-normal)
 
@@ -49,3 +49,7 @@ Autos
   - AntiDetect
   - AntiAfk
 ```
+
+## 💀 USE AT YOUR OWN RISK 💀
+- I am not responsible for anything that happens
+- Anyways, use responsibly
