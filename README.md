@@ -1,7 +1,7 @@
 <div align=center>
 
   ```
-  ✅ Updated 13/2/2024: Updated on Pet Simulator 99! [☁️UPD 5]
+  ✅ Updated 26/3/2024: Updated on 👽 Pet Simulator 99!
   ```
 
   # Pet Simulator 99 Hack Script
